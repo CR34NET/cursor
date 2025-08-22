@@ -1,0 +1,2 @@
+# cursor
+Curso Cursor
